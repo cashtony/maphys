@@ -1,0 +1,9 @@
+Package: com.ichitaso.maphys
+Name: maphys
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: test
+Maintainer: ichitaso
+Author: ichitaso
+Section: Terminal Support
